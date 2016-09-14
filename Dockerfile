@@ -10,3 +10,4 @@ RUN apt-get update &&\
 
 RUN gem install bundler
 
+WORKDIR /root
